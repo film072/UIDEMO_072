@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="OOP softwear">
+    <CLASSES>
+      <root url="jar://D:/OOP softwear/jfoenix-8.0.1.jar!/" />
+      <root url="jar://D:/OOP softwear/sqlite-jdbc-3.21.0.jar!/" />
+      <root url="file://D:/OOP softwear" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/OOP softwear" recursive="false" />
+  </library>
+</component>
